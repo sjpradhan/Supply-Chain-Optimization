@@ -1,6 +1,6 @@
 # Supply-Chain-Optimization
 
-Welcome to the supply chain analysis repository. In this project, we've conducted a comprehensive analysis using various statistical and machine learning techniques. Below is the breakdown of our analysis:
+Welcome to the supply chain analysis repository. In this project, we've conducted a comprehensive analysis using various statistical techniques. Below is the breakdown of our analysis:
 
 ## Exploratory Data Analysis (EDA)
 
