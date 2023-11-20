@@ -1,7 +1,7 @@
 # Supply-Chain-Optimization
 
 Welcome to the supply chain analysis repository. In this project, I've conducted a comprehensive analysis using various statistical techniques. Below is the breakdown of our analysis:
-
+[Dataset](https://drive.google.com/file/d/1-u3lLMpuVpc7QhoNqgD1VTaK54Rwsnjm/view?usp=sharing)
 ## Exploratory Data Analysis (EDA)
 
 The `eda` folder contains:
